@@ -63,6 +63,9 @@ Terraform provisions:
 - CloudFront distribution  
 - Output values with website and CDN URLs  
 
+**Cleanup**  
+terraform destroy
+
 ---
 
 ## Security Features
