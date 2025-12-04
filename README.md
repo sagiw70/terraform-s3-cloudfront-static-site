@@ -65,12 +65,6 @@ Terraform provisions:
 
 ---
 
-## Website Endpoints
-
-S3 Website (HTTP)
-CloudFront (HTTPS)
----
-
 ## Security Features
 
 - Server-side encryption (AES-256)  
