@@ -85,12 +85,3 @@ Terraform provisions:
 - Troubleshooting: AccessDenied, ACL issues, missing index, content-type handling  
 - Building secure and repeatable IaC deployments  
 
----
-
-## Cleanup
-
-To remove all resources:  
-terraform destroy  
-
----
-
