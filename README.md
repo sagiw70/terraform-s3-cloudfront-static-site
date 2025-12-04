@@ -67,12 +67,8 @@ Terraform provisions:
 
 ## Website Endpoints
 
-S3 Website (HTTP):  
-http://sagi-terraform-bucket.s3-website-eu-west-1.amazonaws.com
-
-CloudFront (HTTPS):  
-https://dcty9xplyti3n.cloudfront.net
-
+S3 Website (HTTP)
+CloudFront (HTTPS)
 ---
 
 ## Security Features
